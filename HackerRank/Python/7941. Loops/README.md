@@ -38,7 +38,7 @@ The list of non-negative integers that are less than $n = 3$ is $[0, 1, 2]$.  Pr
 | Language | pypy3 |
 | Score | 10.0 |
 | Testcases | 2/2 passed |
-| Submission ID | 479696709 |
+| Submission ID | 479696720 |
 
 ---
 
