@@ -24,7 +24,7 @@ Write a query that prints a list of employee names (i.e.: the *name* attribute) 
 | Language | db2 |
 | Score | 10.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 480334758 |
+| Submission ID | 480334803 |
 
 ---
 
