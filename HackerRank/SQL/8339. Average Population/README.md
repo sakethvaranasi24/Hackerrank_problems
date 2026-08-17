@@ -24,7 +24,7 @@ Query the average population for all cities in **CITY**, rounded *down* to the n
 | Language | db2 |
 | Score | 10.0 |
 | Testcases | 1/1 passed |
-| Submission ID | 480461235 |
+| Submission ID | 480462312 |
 
 ---
 
