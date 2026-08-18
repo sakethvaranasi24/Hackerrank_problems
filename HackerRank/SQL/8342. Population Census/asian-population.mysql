@@ -1,0 +1,5 @@
+SELECT SUM(CITY.POPULATION) 
+FROM CITY #table-1
+JOIN COUNTRY #table-02
+ON CITY.CountryCode = COUNTRY.Code #matching-columns
+WHERE COUNTRY.Continent ='Asia'; # only asia continent
